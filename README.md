@@ -1,0 +1,2 @@
+# Gumoko-game
+half completed
